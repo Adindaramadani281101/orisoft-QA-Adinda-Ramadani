@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldName</name>
+   <tag></tag>
+   <elementGuidId>88fb3446-c152-4a44-87f9-0bb33db8e1d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/form-comp/div/form/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/form-comp/div/form/div[1]/input</value>
+      <webElementGuid>935eb293-f397-4d00-9ce8-cac5683ce34f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

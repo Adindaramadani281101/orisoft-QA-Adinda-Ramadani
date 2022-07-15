@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>disabled</name>
+   <tag></tag>
+   <elementGuidId>0364b20b-8765-4b18-9a36-466a0db85869</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/form-comp/div/form/div[6]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/form-comp/div/form/div[6]/div[3]</value>
+      <webElementGuid>ea7f282a-db0f-4736-bf1f-538f7af52496</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

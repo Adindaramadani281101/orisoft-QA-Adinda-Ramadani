@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldEmail</name>
+   <tag></tag>
+   <elementGuidId>f92a84cb-701e-4f10-bb2a-54807eaf52f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/form-comp/div/form/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/form-comp/div/form/div[2]/input</value>
+      <webElementGuid>5b92c3b1-7d4b-4473-8b77-de40be769d3f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
